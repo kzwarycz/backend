@@ -105,7 +105,7 @@
 		margin: 1rem 0 2rem 0;
 	}
 
-	.button-container {
+	div.button-container {
 		margin: 1rem 0 2rem 0;
 		width: 100%;
 		display: flex;
